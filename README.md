@@ -22,4 +22,4 @@ Negative values were turned into positive values using find and replace.
 Pivot tables and charts
 Excel formulas and Functions
 Slicers
-<img width="1769" height="875" alt="image" src="https://github.com/user-attachments/assets/bd8835ca-be76-469d-a68d-ee8f5a2fd33c" />
+
